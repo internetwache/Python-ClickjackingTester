@@ -1,4 +1,4 @@
-Python ClickjackinTester
+Python ClickjackingTester
 =======================
 - 1.) Installation
 - 2.) Usage
