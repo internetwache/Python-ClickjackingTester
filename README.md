@@ -1,8 +1,8 @@
 Python ClickjackingTester
 =======================
 - 1.) Installation
-- 2.) Usage
-- 3.) Functionality
+- 2.) Functionality
+- 3.) Usage
 - 4.) ToDo
 - 5.) License
 
@@ -18,7 +18,15 @@ git clone https://github.com/internetwache/Python-ClickjackingTester.git Clickja
 
 Yay you're done :)
 
-##2. Usage
+##2. Functionality
+
+This tool only checks whether the X-Frame-Options header is set in the servers HTTP-Response.
+
+##4. ToDo
+
+- Implement advanced tests (e.g. Framebuster)
+
+##3. Usage
 
 ```
 % ./clickjacking.py 
@@ -36,14 +44,6 @@ You only need to run the script with the url to test as the first parameter. E.g
 [*] You can't clickjack this!
 [+] Done
 ```
-
-##3. Functionality
-
-This tool only checks whether the X-Frame-Options header is set in the servers HTTP-Response.
-
-##4. ToDo
-
-- Implement advanced tests (e.g. Framebuster)
 
 ##5. License
 
