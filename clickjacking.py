@@ -20,7 +20,7 @@ class ClickjackingTest(object):
     def __create_poc(self):
         html = '''
     <html>
-    <body>
+    <body bgcolor="blue">
         <iframe src="'''+self.__url+'''"></iframe>
     </body>
     </html>
