@@ -1,14 +1,14 @@
 Python ClickjackingTester
 =======================
-- 1.) Installation
-- 2.) Usage
-- 3.) Functionality
-- 4.) ToDo
-- 5.) License
+1. Installation
+2. Usage
+3. Functionality
+4. ToDo
+5. License
 
-##1. Installation
+## 1. Installation
 
-[Pyhton 2.7](http://www.python.org/download/releases/2.7/) is required to run this software.
+[Python 2.7](http://www.python.org/download/releases/2.7/) is required to run this software.
 
 You only need to clone this GitHub repository:
 
@@ -18,7 +18,7 @@ git clone https://github.com/internetwache/Python-ClickjackingTester.git Clickja
 
 Yay you're done :)
 
-##2. Usage
+## 2. Usage
 
 ```
 % ./clickjacking.py 
@@ -37,15 +37,15 @@ You only need to run the script with the url to test as the first parameter. E.g
 [+] Done
 ```
 
-##3. Functionality
+## 3. Functionality
 
 This tool only checks whether the X-Frame-Options header is set in the servers HTTP-Response.
 
-##4. ToDo
+## 4. ToDo
 
 - Implement advanced tests (e.g. Framebuster)
 
-##5. License
+## 5. License
 
 This script is licensed under [MIT](http://choosealicense.com/licenses/mit/). 
 Please feel free to extend or improve the code/functionality of this script :)
