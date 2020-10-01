@@ -34,7 +34,7 @@ You only need to run the script with the url to test as the first parameter. E.g
 [*] Started ClickjackingTester
 [*] Testing...
 [*] You can't clickjack this!
-[+] Done
+[+] Done well !!
 ```
 
 ##3. Functionality
