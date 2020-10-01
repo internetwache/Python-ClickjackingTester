@@ -6,7 +6,7 @@ Python ClickjackingTester
 - 4.) ToDo
 - 5.) License
 
-##1. Installation
+##1. Installation Process
 
 [Pyhton 2.7](http://www.python.org/download/releases/2.7/) is required to run this software.
 
