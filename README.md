@@ -27,7 +27,7 @@ Yay you're done :)
 [-] URL: the url to test
 ```
 
-You only need to run the script with the url to test as the first parameter. E.g:
+You only need to run the script with the url to test as the first parameter. e.g. :
 
 ```
 ./clickjacking.py www.internetwache.org
@@ -43,7 +43,7 @@ This tool only checks whether the X-Frame-Options header is set in the servers H
 
 ##4. ToDo
 
-- Implement advanced tests (e.g. Framebuster)
+- Implement advanced tests. (e.g. Framebuster)
 
 ##5. License
 
