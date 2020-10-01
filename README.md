@@ -1,10 +1,10 @@
 Python ClickjackingTester
 =======================
-- 1) Installation
-- 2) Usage
-- 3) Functionality
-- 4) ToDo
-- 5) License
+- 1. Installation
+- 2. Usage
+- 3. Functionality
+- 4. ToDo
+- 5. License
 
 ##1. Installation
 
