@@ -45,9 +45,9 @@ This tool only checks whether the X-Frame-Options header is set in the servers H
 
 - Implement advanced tests (e.g. Framebuster)
 
-##5. License
+##5. License (copyright free)
 
 This script is licensed under [MIT](http://choosealicense.com/licenses/mit/). 
 Please feel free to extend or improve the code/functionality of this script :)
 
-Happy Hacking!
+Happy Hacking! (MIT)
