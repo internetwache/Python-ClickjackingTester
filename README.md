@@ -1,4 +1,4 @@
-Python ClickjackingTester
+AMAZING PYTHON CLICKJACKING TESTER
 =======================
 - 1.) Installation
 - 2.) Usage
