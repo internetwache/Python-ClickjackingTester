@@ -27,7 +27,7 @@ Yay you're done :)
 [-] URL: the url to test
 ```
 
-You only need to run the script with the url to test as the first parameter. E.g:
+You only need to run the script with the url to test as the first parameter. Eg;
 
 ```
 ./clickjacking.py www.internetwache.org
