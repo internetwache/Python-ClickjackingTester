@@ -8,16 +8,16 @@
 import sys, urllib2
 clickjacking = False
 
-class ClickjackingTest(object):
+class ClickjackingTest(object):     #creating the class.
 
-    def __init__(self):
+    def __init__(self):             #writiing our function inside class.
         self.__init()
 
     def __init(self):
         self.__url = ""
         self.__csrfPoc = ""
 
-    def __create_poc(self):
+    def __create_poc(self):        # Html codes in the website
         html = '''
     <html>
     <body>
